@@ -15,6 +15,7 @@
 
 #  OnionHoster is a Bash Based Script  To Host A Hidden WebPage On Tor In Termux. <img src="https://img.icons8.com/color-glass/48/000000/web-design.png"/>
 
+
 ## Features : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
 
 * Working Perfectly With Termux Directories .
@@ -34,6 +35,10 @@
 source <(curl -fsSL https://kutt.it/hgb7uA)
 
 ```
+
+## More  Webpages For Hosting - <a href="https://github.com/isuruwa/OnionHoster/archive/refs/tags/SampleSites.zip"> Download </a>
+
+Remove The Contents Of Old Webpage in OnionHoster Tool & Replace With Sample Site Webpage .
 
 ## Installtion : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
 

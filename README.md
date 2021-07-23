@@ -1,4 +1,7 @@
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-THUNTER-brightgreen?style=for-the-badge&logo=appveyor"></a>
+# Fixed : Link Not Generating . (23/07/2021)
+# Sorry , It takes about a one minute for better Hosting ...
+
 <br>
 <p align="center">
   

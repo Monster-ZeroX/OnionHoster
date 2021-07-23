@@ -21,9 +21,7 @@
 * Working Perfectly With Termux Directories .
 * Auto Updating TOR configuration Scripts .
 * Fixed IPV6 Errors .
-* Dns Requesting Working Perfectly .
 * Ip Address Based SOCKS Allowed.
-* More Features . Explore It By Your Own .
 
 ## If You Want To Host Your Own Site ( index.html) - Coming Soon ... <img src="https://img.icons8.com/nolan/64/web-design.png"/>
 
